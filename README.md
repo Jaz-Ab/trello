@@ -16,7 +16,7 @@ En este trabajo se ha aplicado todo lo parendido hasta ahora en **js**, **css** 
 *Nav
 *Section
 
-##Trabajo terminado
+## Trabajo terminado
 
 ![Trello](assets/docs/trello-final.png)
 
